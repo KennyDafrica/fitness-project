@@ -76,7 +76,7 @@
     color: white;
     display: flex; 
     justify-content: center; align-items: center;
-    font-size: smaller;   
+    font-size: large;   
     
 }
 
@@ -93,7 +93,7 @@
     justify-content: center; text-align: center;
     font-size: x-large;
     margin-top: 10%;
-    font-size: 150%;
+    font-size: 200%;
 }
 .program-overlay {
 color: #ED563B;
@@ -113,6 +113,7 @@ color: #ED563B;
     padding-right: 35%;
     padding-left: 10%;
     margin-top: -10%;
+    
 }
 .basic-overlay {
     justify-content: center; text-align: center;
